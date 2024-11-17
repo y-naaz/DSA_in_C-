@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "project.C": "cpp",
+    "check2.C": "cpp",
+    "ostream": "cpp",
+    "iostream": "cpp"
+  }
+}
